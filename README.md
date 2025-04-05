@@ -3,15 +3,15 @@
 
 - 🔭 Actualmente estoy trabajando en: **Centro de Salud Mental Comunitario Santiago**
 
-- 🌱 Actualmente estoy aprendiendo **Cursos de Programación y ciberseguridad**
+- 🌱 Actualmente estoy aprendiendo: **Cursos de Programación y ciberseguridad**
 
-- 👯Estoy buscando colaborar en **proyector de ciberseguridad**
+- 👯Estoy buscando colaborar en: **proyector de ciberseguridad**
 
-- 💬 Ask me about **html, css y javascript**
+- 💬 Puedes Preguntarme por: **html, css y javascript**
 
-- 📫 How to reach me **nivek9021@gmail.com**
+- 📫 Me puedes contartar en: **nivek9021@gmail.com**
 
-- ⚡Dato Curioso **Me encanta los animes y videojuegos**
+- ⚡Dato Curioso: **Me encanta los animes y videojuegos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
